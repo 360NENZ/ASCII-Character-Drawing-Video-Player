@@ -1,15 +1,13 @@
 # ASCII Character Drawing Video Player
 
-ÓÃPythonÊµÏÖ×Ö·û»­
+ç”¨Pythonå®ç°å­—ç¬¦ç”»
   
  
+1.æŠŠè§†é¢‘æ–‡ä»¶å‘½åä¸º 1.mp4 å¹¶æ”¾å…¥dataæ–‡ä»¶å¤¹
+2.è¿è¡Œaudio.bat
+3.è¿è¡ŒASCII Character Drawing Video Player.exeå³å¯
 
-1.°ÑÊÓÆµÎÄ¼şÃüÃûÎª 1.mp4 ²¢·ÅÈëdataÎÄ¼ş¼Ğ
-2.ÔËĞĞaudio.bat
-3.ÔËĞĞASCII Character Drawing Video Player.exe¼´¿É
-
-
-×îµÍÔËĞĞÒªÇó
-ÏµÍ³: Windows 10
-ÄÚ´æ: ×îÉÙ4GB
-ÆäËû²»ÏŞ
+æœ€ä½è¿è¡Œè¦æ±‚
+ç³»ç»Ÿ: Windows 10
+å†…å­˜: æœ€å°‘4GB
+å…¶ä»–ä¸é™
