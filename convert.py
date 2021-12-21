@@ -1,5 +1,6 @@
 # Author:    360NENZ
 # Bilibili:  https://space.bilibili.com/434806901
+# Github:    https://github.com/JAVAEdition/ASCII-Character-Drawing-Video-Player
 # Mail:      gdgwhy@outlook.com
 
 import matplotlib.pyplot as plt
